@@ -1,0 +1,189 @@
+h1,
+h2,
+h3,
+h3,
+h5,
+h4,
+h6 {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+a,
+span,
+button,
+nav,
+p {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+#nav {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../wedding-materials/bg.jpg);
+    position: relative;
+    padding: 10px;
+}
+
+#third {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 70vh;
+    background-image: url(../wedding-materials/pexels-photo-1035665.jpeg);
+    position: relative;
+    padding: 10px;
+}
+
+#nav .navbar-brand {
+    width: 250px;
+}
+
+#nav #upper {
+    padding: 350px;
+}
+
+#nav #upper p {
+    font-size: 50px;
+    letter-spacing: 1.5;
+}
+
+#nav #upper span {
+    font-size: 20px;
+    letter-spacing: 1.5;
+    margin-bottom: 20px;
+}
+
+#nav #upper a {
+    font-size: 10px;
+    letter-spacing: 1.5;
+    border: 0.4px solid black;
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-color: #F8AFAD;
+    margin-left: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    background-color: #F8AFAD;
+    border-radius: 5px;
+}
+
+#nav #upper a:hover {
+    font-size: 10px;
+    letter-spacing: 1.5;
+    border: 0.4px solid black;
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-color: #f8736f;
+    margin-left: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    background-color: #f8736f;
+    border-radius: 5px;
+}
+
+li #firstbtn {
+    margin-left: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    border: 0.4px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
+li #secondbtn {
+    border: 0.4px solid black;
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-color: #F8AFAD;
+    margin-left: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    background-color: #F8AFAD;
+    border-radius: 5px;
+}
+
+li #secondbtn:hover {
+    border: 0.4px solid black;
+    color: white;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-color: #f8736f;
+    margin-left: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    background-color: #f8736f;
+    border-radius: 5px;
+}
+
+#second {
+    padding: 40px;
+    letter-spacing: 1.5px;
+}
+
+#second h1 {
+    padding: 20px
+}
+
+#second p {
+    padding: 5px;
+    color: #808080;
+}
+
+#forth #right #thirdbtn {
+    border: 0.4px solid black;
+    color: white;
+    cursor: pointer;
+    border-color: #f8736f;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    background-color: #f8736f;
+    border-radius: 5px;
+}
+
+#third {
+    text-align: center;
+    padding: 200px;
+}
+
+#third h2 {
+    padding-bottom: 20px
+}
+
+#third p {
+    letter-spacing: 1.5px;
+    color: white;
+    opacity: 0.9;
+}
+
+#forth #right h2 {
+    padding-bottom: 20px;
+}
+
+#forth #right {
+    padding-top: 150px;
+    padding-left: 40px;
+}
+
+#forth #right p {
+    color: #808080;
+}
+
+#forth #left {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 70vh;
+    background-image: url(../wedding-materials/pexels-photo-313715.jpeg);
+    position: relative;
+    padding: 10px;
+}
+
+#forth {
+    letter-spacing: 1.5px;
+}
